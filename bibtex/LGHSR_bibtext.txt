@@ -1,0 +1,7 @@
+@InProceedings{Li_2017_AAAI,
+author = {Li, Xuelong and Hu, Di and Nie, Feiping},
+title = {Large Graph Hashing with Spectral Rotation},
+booktitle = {AAAI Conference on Artificial Intelligence},
+pages={2203--2209},
+year = {2017}
+}
