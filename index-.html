@@ -1,0 +1,295 @@
+<html>
+<head>
+<meta content="Di Hu" name="keywords" />
+<title>Di Hu homepage</title>
+</head>
+
+
+<style>
+	img.rounded-img {
+		border: 1px solid #eeeeee;
+		border-radius: 10px ;
+		-moz-border-radius: 10px ;
+		-webkit-border-radius: 10px ;
+	}
+
+  
+  h1,body {
+    font-size : 15px;
+    font-family: Lato, Helvetica, sans-serif;
+  }
+</style>
+
+<body>
+
+<script language = "javascript">
+ /* Code for showing email address, taken from http://www.cs.cornell.edu/courses/cs3110/2010sp/courseinfo.asp */
+
+    function removeAllChildren(node) {
+	  if (node.hasChildNodes()) {
+	    var children = node.getElementsByTagName("span");
+	    for (var i = 0; i < children.length; i++) {
+	      node.removeChild(children[i]);
+	    }
+	  }
+    }
+ 
+    function showEmail(n, d, nm) {
+	  var link = document.getElementById(n);
+	  var text = document.createTextNode(n + "@" + d);
+	  removeAllChildren(link);
+	  link.appendChild(text);
+	  link.setAttribute("href", "mailto:" + n + "@" + d + " (" + nm + ")");
+    }
+</script>
+<table border = 0 cellspacing = 20>
+  <tr>
+    <td><img class = "rounded-img" src = "ims/self.jpg" style = "height:250px"></td>
+    <td width = "30"></td>
+    <td valign= "top">
+      <font size = 6>Di Hu</font><br>
+      <a id="hdui831">
+      <span><i><small>Please turn on JavaScript to view email address.</small></i></span>
+      <script language = "javascript">
+      var d = "mail.nwpu.edu.cn";
+      showEmail("hdui831", d, "Di Hu");
+      </script>
+      </a> <br>
+      <font size = 3> Ph.D. Student at OPTIMAL, <a href = "http://www.nwpu.edu.cn/">NWPU</a><br></font>
+    </td>
+  </table>
+
+
+<font size = "3"> 
+<p style = "width:800px">I'm currently a fifth-year PhD candidate at OPTIMAL, supervised by <a href = "https://scholar.google.com.hk/citations?user=ahUibskAAAAJ&hl=zh-CN">Xuelong Li</a>, Xiaoqiang Lu, and <a href = "http://www.escience.cn/people/fpnie/index.html">Feiping Nie</a>.
+My research interests mainly lie in multimodal machine learning, and relevant applications. <b> Currently, I'm exploring how to understand and interact with the world via the audiovisual correspondence.</b>
+</font> 
+
+<br>
+<font size = "5"> 
+<p><b>Research Interests:</b>
+
+<font size = "4"> 
+<p><b><li>Multimodal Fusion Model:</li></b>
+
+<div>
+<div style = "position: relative; left: 20px">
+  <table cellpadding = "2">
+        
+    <tr>
+      <td>
+        <img src = "ims/deepSim.JPG" class = "rounded-img" style = "width:180px">&nbsp;&nbsp; 
+      </td>
+
+      <td>
+        Di Hu, Xiaoqiang Lu, Xuelong Li.<br>
+        <b>Multimodal Learning via Exploring Deep Semantic Similarity</b>
+        <br>ACM MM 2016. Poster presentation.<br>
+        <a href = "papers/2016_deepSim.pdf">Paper</a>
+        <a href = "papers/2016_deepSim_SM.pdf">Supplemental Material</a> 
+        <a href = "http://pan.baidu.com/s/1nvD5IfJ">Dataset</a> 
+        <a href = "bibtex/deepSim_bibtex.txt">BibTex</a>
+      </td>
+    </tr>
+
+
+    <tr>
+      <td>
+        <img src = "ims/avSpeech.JPG" class = "rounded-img" style = "width:180px">&nbsp;&nbsp; 
+      </td>
+      
+      <td>
+        Di Hu, Xuelong Li, Xiaoqiang Lu.<br>
+        <b>Temporal Multimodal Learning in Audiovisual Speech Recognition</b>
+        <br>CVPR 2016. Poster presentation.<br>
+        <a href = "papers/2016_avSpeech.pdf">Paper</a> 
+        <a href = "http://pan.baidu.com/s/1nvD5IfJ">Dataset</a> 
+        <a href = "bibtex/avSpeech_bibtex.txt">BibTex</a>
+        
+      </td>
+    </tr>
+	
+    <tr>
+      <td>
+        <img src = "ims/DMN.JPG" class = "rounded-img" style = "width:180px">&nbsp;&nbsp; 
+      </td>
+      <td>
+        Di Hu, Feiping Nie,  Xuelong Li.<br>
+        <b>Dense Multimodal Fusion for Hierarchically Joint Representation</b><br>
+        <a href = "papers/2018_DMN.pdf">Paper</a>
+      </td>
+    </tr>
+	
+</table>
+</div>
+
+
+<font size = "4"> 
+<p><b><li>Multimodal Application:</li></b>
+<div>
+<div style = "position: relative; left: 20px">
+  <table cellpadding = "2">
+  
+	<tr>
+      <td>
+        <img src = "ims/image2song.JPG" class = "rounded-img" style = "width:180px">&nbsp;&nbsp; 
+      </td>
+      
+      <td>
+        Xuelong Li, Di Hu, Xiaoqiang Lu.<br>
+        <b>Image2song: Song Retrieval via Bridging Image Content and Lyric Words</b>
+        <br>ICCV 2017.<br>
+        <a href = "papers/2017_image2song.pdf">Paper</a> 
+        <a href = "papers/2017_image2song_SM.pdf">Supplemental Material</a> 
+        <a href = "demo/video_image2song.avi">Video</a>
+        <a href = "https://drive.google.com/open?id=0B2N8XiDRrEgISXFJSXBEMWpUMDA">Dataset</a> 
+        <a href = "bibtex/image2song_bibtex.txt">BibTex</a>
+      </td>
+    </tr>
+	
+      <tr>
+      <td>
+        <img src = "ims/DBRC.JPG" class = "rounded-img" style = "width:180px">&nbsp;&nbsp; 
+      </td>
+      
+      <td>
+        Xuelong Li, Di Hu, Feiping Nie.<br>
+        <b>Deep Binary Reconstruction for Cross-modal Hashing</b>
+        <br>ACM MM 2017. Poster presentation.<br>
+        <a href = "papers/2017_DBRC.pdf">Paper</a> 
+	  <a href = "code/2017_DBRC.zip">Code</a>
+        <a href = "bibtex/DBRC_bibtex.txt">BibTex</a>
+	 <a href = "papers/2018_DBRC.pdf">Journal in TMM</a>	
+      </td>
+    </tr>
+	
+  </table>
+</div>
+
+
+<font size = "4"> 
+<p><b><li>Hashing:</li></b>
+<div>
+<div style = "position: relative; left: 20px">
+  <table cellpadding = "2">
+	
+    <tr>
+      <td>
+        <img src = "ims/DeepLDAHashing.JPG" class = "rounded-img" style = "width:180px">&nbsp;&nbsp; 
+      </td>
+      <td>
+        Di Hu, Feiping Nie,  Xuelong Li.<br>
+        <b>Deep LDA Hashing</b><br>
+        <a href = "papers/2018_DLDAH.pdf">Paper</a>
+        <a href = "papers/2018_DLDAH_SM.pdf">Supplemental Material</a> 
+      </td>
+    </tr>
+  
+      <tr>
+      <td>
+        <img src = "ims/lghsr.JPG" class = "rounded-img" style = "width:180px">&nbsp;&nbsp; 
+      </td>
+      
+      <td>
+        Xuelong Li, Di Hu, Feiping Nie.<br>
+        <b>Large Graph Hashing with Spectral Rotation</b>
+        <br>AAAI 2017. Poster presentation.<br>
+        <a href = "papers/2017_LGHSR.pdf">Paper</a> 
+	  <a href = "code/2017_LGHSR.zip">Code</a>
+        <a href = "bibtex/LGHSR_bibtex.txt">BibTex</a>
+	  <a href = "papers/2018_DSH.pdf">Journal in TIP</a>	
+      </td>
+    </tr>
+	
+
+	
+  </table>
+</div>
+
+
+<font size = "4"> 
+<p><b><li>Multimodal in Real-world:</li></b>
+<div>
+<div style = "position: relative; left: 20px">
+  <table cellpadding = "2">
+
+    <tr>
+      <td>
+        <img src = "ims/DCCL.JPG" class = "rounded-img" style = "width:180px">&nbsp;&nbsp; 
+      </td>
+      <td>
+        Di Hu, Feiping Nie,  Xuelong Li.<br>
+        <b>Deep Co-Clustering for Unsupervised Audiovisual Learning</b>
+        <br>To be appear.<br>
+	  <a href = "https://www.youtube.com/watch?v=O4aR76CWnH0&t=15s">Demo</a> 
+        
+      </td>
+    </tr>
+  
+  </table>
+</div>
+
+
+<br>
+<p><b>Reviewer:</b>
+<div>
+<div style = "position: relative; left: 10px">
+  <table cellpadding = "2">
+
+    <tr>
+      <td>
+        <font size = "3"> 
+		<p style = "width:800px"> AAAI 2018, CVPR 2018, ACCV2018
+		</font> 
+      </td>
+    </tr>
+	
+	
+</table>
+</div>
+
+
+<br>
+<p><b>Experience:</b>
+<div>
+<div style = "position: relative; left: 10px">
+  <table cellpadding = "2">
+
+    <tr>
+      <td>
+        <img src = "ims/robot.jpg" class = "rounded-img" style = "width:140px">&nbsp;&nbsp; 
+      </td>
+      
+      <td>
+        <font size = "3"> 
+		<p style = "width:800px"> During the undergraduate studies, we developed a home-service robot based on <a href = "http://www.ros.org/">ROS</a>, which is named as XiaoMeng.
+        I mainly focused on the robot configuration and human-computer interface, including face detection, face recognition, and TTS. I also participated in the SLAM work for the robot. And our team won the Second Prize for Home service robot group of RoboCup China Robot Competition in 2013.
+		</font> 
+      </td>
+    </tr>
+	
+    <tr>
+      <td>
+        <img src = "ims/cognitive.jpg" class = "rounded-img" style = "width:140px">&nbsp;&nbsp; 
+      </td>
+      
+      <td>
+        <font size = "3"> 
+		<p style = "width:800px"> I'm very curious about the cognition of human, therefore I have ever spent one year studying cognitive science and cognitive psychology, 
+		advised by <a href = "http://mgv.pku.edu.cn/?co=posts&ac=faculty&catalog=cnpiintro&pname=cn_Zhou_Xiao_Lin">Xiaolin Zhou</a>. And most of my works are inspired by them.
+		</font> 
+      </td>
+    </tr>
+	
+	
+</table>
+</div>
+
+
+
+<!-- <ul style="list-style: none;"><li> -->
+<script type="text/javascript" src="footer.js"></script>
+
+</body>
+</html>
+
