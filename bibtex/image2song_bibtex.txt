@@ -1,6 +1,0 @@
-@InProceedings{Li_2017_ICCV,
-author = {Li, Xuelong and Hu, Di  and Lu, Xiaoqiang},
-title = {Image2song: Song Retrieval via Bridging Image Content and Lyric Words},
-booktitle = {IEEE International Conference on Computer Vision (ICCV)},
-year = {2017}
-}

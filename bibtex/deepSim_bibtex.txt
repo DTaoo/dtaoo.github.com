@@ -1,7 +1,0 @@
-@InProceedings{Hu_2016_ACMM,
-author = {Hu, Di and Lu, Xiaoqiang and Li, Xuelong},
-title = {Multimodal Learning via Exploring Deep Semantic Similarity},
-booktitle = {Proceedings of the 24th ACM international conference on Multimedia},
-pages={342--346},
-year = {2016}
-}

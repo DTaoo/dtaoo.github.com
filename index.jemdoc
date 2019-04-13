@@ -1,0 +1,30 @@
+# jemdoc: menu{MENU}{index.html}
+= Di Hu
+
+~~~
+{}{img_left}{ims/self.jpg}{alt text}{}{280px}{}
+Di Hu  胡 迪\n
+Ph.D. Student \n 
+Center for OPTical IMagery Analysis and Learning (OPTIMAL) \n
+[http://jsj.nwpu.edu.cn/ School of Computer Science]  \n
+[http://en.nwpu.edu.cn Northwestern Polytechnical University]
+Contact: [hdui831@mail.nwpu.edn.cn Email], [https://github.com/DTaoo Github]
+~~~
+
+== Short Bio 
+I'm currently a fifth-year PhD candidate at OPTIMAL, supervised by [https://scholar.google.com.hk/citations?user=ahUibskAAAAJ&hl=zh-CN Xuelong Li], [https://scholar.google.com.hk/citations?user=FRyuu2IAAAAJ&hl=zh-CN Xiaoqiang Lu], and [http://www.escience.cn/people/fpnie/index.html Feiping Nie]. Currently, I'm exploring how to understand and interact with the world via the naturally audiovisual correspondence.
+
+== News 
+- \[31-03-2019\] Successfully applied the Doctoral Consortium of CVPR 2019!
+- \[25-02-2019\] Two papers accepted by CVPR 2019!
+- \[02-02-2019\] One paper accepted by ICASSP 2019!
+- \[02-07-2018\] Successfully applied the CSC scholarship to CMU as a visiting scholar!
+
+== Education 
+- Ph.D., School of Computer Science, Northwestern Polytechnical University, Xi'an, China, Sep. 2014 - Present
+- B.E., Honor College, Northwestern Polytechnical University, Xi'an, China, Sep. 2010 - July 2014
+
+== Research Interests 
+- Multimodal Machine Learning
+- Machine Multimodal Perception
+- Hashing Technique 

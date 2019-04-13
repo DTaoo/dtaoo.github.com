@@ -1,6 +1,0 @@
-@InProceedings{Li_2017_ACMM,
-author = {Li, Xuelong and Hu, Di and Nie, Feiping},
-title = {Deep Binary Reconstruction for Cross-modal Hashing},
-booktitle = {Proceedings of the 25th ACM international conference on Multimedia},
-year = {2017}
-}

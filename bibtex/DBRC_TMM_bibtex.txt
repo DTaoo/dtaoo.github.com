@@ -1,6 +1,0 @@
-@InProceedings{Hu_2018_Deep,
-author = {Hu, Di and Nie, Feiping and Li, Xuelong},
-title = {Deep Binary Reconstruction for Cross-modal Hashing},
-booktitle = {IEEE Transactions on Multimedia},
-year = {2018}
-}

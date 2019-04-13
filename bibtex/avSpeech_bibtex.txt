@@ -1,7 +1,0 @@
-@InProceedings{Hu_2016_CVPR,
-author = {Hu, Di and Li, Xuelong and Lu, Xiaoqiang},
-title = {Temporal multimodal learning in audiovisual speech recognition},
-booktitle = {The IEEE Conference on Computer Vision and Pattern Recognition (CVPR)},
-pages={3574--3582},
-year = {2016}
-}

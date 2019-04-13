@@ -1,0 +1,90 @@
+# jemdoc: menu{MENU}{publication.html}
+= Publications
+
+== Preprint
+
+~~~
+{}{img_left}{ims/DeepLDAHashing.JPG}{alt text}{150px}{80px}{}
+[papers/2018_DLDAH.pdf Deep LDA Hashing] \n
+[papers/2018_DLDAH_SM.pdf Supplemental Material], [code/DLDAH_code.zip Code]\n
+*Di Hu*, Feiping Nie,  Xuelong Li.\n
+~~~
+
+== Conference Papers
+
+~~~
+{}{img_left}{ims/voice.JPG}{alt text}{150px}{80px}{}
+[papers/2019_voice.pdf Listen to the Image] \n
+[papers/2019_voice_SM.zip Supplemental Material]  \n
+*Di Hu*, Dong Wang, Xuelong Li, Feiping Nie, Qi Wang\n
+CVPR 2019
+~~~
+
+~~~
+{}{img_left}{ims/DMC.JPG}{alt text}{150px}{80px}{}
+[papers/2019_DMC.pdf Deep Multimodal Clustering for Unsupervised Audiovisual Learning] \n
+[papers/2019_DMC_SM.pdf Supplemental Material], [demo/DMC_demo.mp4 Demo], Code is coming soon \n
+*Di Hu*, Feiping Nie, Xuelong Li\n
+CVPR 2019
+~~~
+
+~~~
+{}{img_left}{ims/DMN.JPG}{alt text}{150px}{80px}{}
+[papers/2019_DMN.pdf Dense Multimodal Fusion for Hierarchically Joint Representation] \n
+*Di Hu*, Chengze Wang, Feiping Nie,  Xuelong Li\n
+ICASSP 2019. Lecture Presentation
+~~~
+
+~~~
+{}{img_left}{ims/lghsr.JPG}{alt text}{150px}{80px}{}
+[papers/2017_LGHSR.pdf Large Graph Hashing with Spectral Rotation] \n
+[code/2017_LGHSR.zip Code] \n
+Xuelong Li, *Di Hu*, Feiping Nie\n
+AAAI 2017
+~~~
+
+~~~
+{}{img_left}{ims/DBRC.JPG}{alt text}{150px}{80px}{}
+[papers/2018_DBRC.pdf Deep Binary Reconstruction for Cross-modal Hashing] \n
+[code/2017_DBRC.zip Code] \n
+Xuelong Li, *Di Hu*, Feiping Nie\n
+ACM MM 2017
+~~~
+
+~~~
+{}{img_left}{ims/image2song.JPG}{alt text}{150px}{80px}{}
+[papers/2017_image2song.pdf Image2song: Song Retrieval via Bridging Image Content and Lyric Words] \n
+[papers/2017_image2song_SM.pdf Supplemental Material], [demo/video_image2song.avi Demo], [https://drive.google.com/open?id=0B2N8XiDRrEgISXFJSXBEMWpUMDA Dataset] \n
+Xuelong Li, *Di Hu*, Xiaoqiang Lu\n
+ICCV 2017
+~~~
+
+~~~
+{}{img_left}{ims/deepSim.JPG}{alt text}{150px}{80px}{}
+[papers/2016_deepSim.pdf Multimodal Learning via Exploring Deep Semantic Similarity] \n
+*Di Hu*, Xiaoqiang Lu, Xuelong Li \n
+ACM MM 2016
+~~~
+
+~~~
+{}{img_left}{ims/avSpeech.JPG}{alt text}{150px}{80px}{}
+[papers/2016_avSpeech.pdf Temporal Multimodal Learning in Audiovisual Speech Recognition] \n
+*Di Hu*, Xuelong Li, Xiaoqiang Lu \n
+CVPR 2016
+~~~
+
+== Journal Papers
+
+~~~
+{}{img_left}{ims/lghsr.JPG}{alt text}{150px}{80px}{}
+[papers/2019_DSH.pdf Discrete Spectral Hashing for Efficient Similarity Retrieval] \n
+*Di Hu*, Feiping Nie, Xuelong Li\n
+IEEE TRANSACTIONS ON IMAGE PROCESSING 2019
+~~~
+
+~~~
+{}{img_left}{ims/DBRC.JPG}{alt text}{150px}{80px}{}
+[papers/2019_DBRC.pdf Deep Binary Reconstruction for Cross-modal Hashing] \n
+*Di Hu*, Feiping Nie, Xuelong Li\n
+IEEE TRANSACTIONS ON MULTIMEDIA 2019
+~~~
