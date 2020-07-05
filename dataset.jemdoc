@@ -1,8 +1,24 @@
 # jemdoc: menu{MENU}{software.html}
 = Dataset
 
-- [https://drive.google.com/open?id=0B2N8XiDRrEgISXFJSXBEMWpUMDA Shuttersong Dataset]
+== Shuttersong Dataset
+~~~
+{}{img_left}{ims/shuttersong.jpeg}{alt text}{}{100px}{}
+Shuttersong Dataset contains amounts of pairwise images and songs (lyrics) collected from the Shuttersong application. [www.shuttersong.com Shuttersong] is a social sharing software, just like Instagram2. However, the shared content contains not only an image, but also a corresponding song clip selected by users, which is for strengthening the expression purpose. A relevant mood can also be appended by users. We collect almost the entire updated data from Shuttersong, which consists of 36,646 pairs of images and song clips. Some optional mood and favorite count information are also included. For more details about this dataset, please refer to [papers/2017_image2song.pdf our paper]. [https://drive.google.com/open?id=0B2N8XiDRrEgISXFJSXBEMWpUMDA Download this dataset here]
+~~~
 
-- [https://pan.baidu.com/s/1rclZCgSOxLMTGfGfwJZ94A AVLetters] (Extract Code: vrg6)
+== AuDio Visual Aerial sceNe reCognition datasEt (ADVANCE)
+~~~
+{}{img_left}{ims/ADVANCE.jpeg}{alt text}{}{125px}{}
+AuDio Visual Aerial sceNe reCognition datasEt (AVCANCE) consists of 5,075 geotagged aerial imagesound pairs involving 13 scene classes. 
+The audio data are collected from [https://freesound.org/browse/geotags/ Freesound], where we remove the audio recordings that are shorter than 2 seconds, and extend those that are between 2 and 10 seconds to longer than 10 seconds by replicating the audio content. From the location information, we can download the updated aerial images from [https://earthengine.google.com/ Google Earth]. Finally, the paired data are labeled according to the annotations from [https://www.openstreetmap.org/ OpenStreetMap], also using the attached geographic coordinates from the audio recording. Note that, this dataset covers a large variety of scenes from across the world. For more details about this dataset, please refer to [https://arxiv.org/pdf/2005.08449.pdf our paper]. [https://zenodo.org/record/3828124 Download this dataset here]
+~~~
+
+
+==  auDIoviSual Crowd cOunting dataset (DISCO)
+~~~
+{}{img_left}{ims/DISCO.jpeg}{alt text}{}{105px}{}
+AuDIoviSual Crowd cOunting dataset (DISCO) consists of 1,935 images and audios from various typical scenes, a total of 170, 270 instances annotated with the head locations. The average, minimum and maximum number of people for each image are 87.99, 1 and 709, respectively. The motivation of building this dataset is that * the louder we perceive the ambient sound to be, the more people there are*. In a summary, DISCO dataset has three advantages comparing with others: 1) both audio and visual signals are provided; 2) cover different illuminations; and 3) a large variety of scenes are considered. For more details about this dataset, please refer to [https://arxiv.org/abs/2005.07097 our paper]. [https://zenodo.org/record/3828468 Download this dataset here]
+~~~
 
 

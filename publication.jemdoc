@@ -1,29 +1,29 @@
 # jemdoc: menu{MENU}{publication.html}
 = Publications
 
-== Preprint
-
-~~~
-{}{img_left}{ims/DeepLDAHashing.JPG}{alt text}{150px}{80px}{}
-[papers/2018_DLDAH.pdf Deep LDA Hashing] \n
-[papers/2018_DLDAH_SM.pdf Supplemental Material], [code/DLDAH_code.zip Code]\n
-*Di Hu*, Feiping Nie,  Xuelong Li.\n
-~~~
 
 == Conference Papers
 
 ~~~
-{}{img_left}{ims/voice.JPG}{alt text}{150px}{80px}{}
-[papers/2019_voice.pdf Listen to the Image] \n
-[papers/2019_voice_SM.zip Supplemental Material], [https://redwang.github.io/CVPR19/ Project Page] \n
-*Di Hu*, Dong Wang, Xuelong Li, Feiping Nie, Qi Wang\n
-CVPR 2019
+{}{img_left}{ims/AVSC.jpeg}{alt text}{150px}{80px}{}
+[https://arxiv.org/pdf/2005.08449.pdf Cross-Task Transfer for Multimodal Aerial Scene Recognition] \n
+[https://github.com/DTaoo/Multimodal-Aerial-Scene-Recognition Code], [https://zenodo.org/record/3828124 Dataset] \n
+*Di Hu*, Xuhong Li, Lichao Mou, Pu Jin, Dong Chen, Liping Jing, Xiaoxiang Zhu, Dejing Dou\n
+ECCV 2020
+~~~
+
+~~~
+{}{img_left}{ims/MSSL_W.jpeg}{alt text}{150px}{80px}{}
+[https://eccv2020.eu/accepted-papers/ Learning to Visually Localize Multiple Sound Sources via A Two-stage Manner] \n
+[https://github.com/shvdiwnkozbw/Multi-Source-Sound-Localization Code]\n
+Rui Qian, *Di Hu*, Heinrich Dinkel, Mengyue Wu, Ning Xu, Weiyao Lin\n
+ECCV 2020
 ~~~
 
 ~~~
 {}{img_left}{ims/DMC.JPG}{alt text}{150px}{80px}{}
 [papers/2019_DMC.pdf Deep Multimodal Clustering for Unsupervised Audiovisual Learning] \n
-[papers/2019_DMC_SM.pdf Supplemental Material], [demo/DMC_demo.mp4 Demo], Code is coming soon \n
+[papers/2019_DMC_SM.pdf Supplemental Material], [demo/DMC_demo.mp4 Demo], [https://github.com/DTaoo/DMC Code] \n
 *Di Hu*, Feiping Nie, Xuelong Li\n
 CVPR 2019
 ~~~
@@ -76,6 +76,14 @@ CVPR 2016
 == Journal Papers
 
 ~~~
+{}{img_left}{ims/DeepLDAHashing.JPG}{alt text}{150px}{80px}{}
+[http://engine.scichina.com/doi/10.1360/SSI-2019-0175 Deep Linear Discriminant Analysis Hashing] \n
+[papers/2018_DLDAH_SM.pdf Supplemental Material], [code/DLDAH_code.zip Code]\n
+*Di Hu*, Feiping Nie,  Xuelong Li.\n
+SCIENTIA SINICA Informationis 2019
+~~~
+
+~~~
 {}{img_left}{ims/lghsr.JPG}{alt text}{150px}{80px}{}
 [papers/2019_DSH.pdf Discrete Spectral Hashing for Efficient Similarity Retrieval] \n
 *Di Hu*, Feiping Nie, Xuelong Li\n
@@ -88,3 +96,38 @@ IEEE TRANSACTIONS ON IMAGE PROCESSING 2019
 *Di Hu*, Feiping Nie, Xuelong Li\n
 IEEE TRANSACTIONS ON MULTIMEDIA 2019
 ~~~
+
+== Workshop Papers
+
+~~~
+{}{img_left}{ims/HAVL_W.jpeg}{alt text}{150px}{80px}{}
+[papers/2020_HAVL_W.pdf Heterogeneous Scene Analysis via Self-supervised Audiovisual Learning] \n
+[https://www.youtube.com/watch?v=kuClfGG0cFU Demo], [https://www.youtube.com/watch?v=-2qw9smT5Rw Video] \n
+*Di Hu*, Zheng Wang, Haoyi Xiong, Dong Wang, Feiping Nie, Dejing Dou\n
+CVPR Sight and Sound Workshop 2020
+~~~
+
+~~~
+{}{img_left}{ims/counting_W.jpeg}{alt text}{150px}{80px}{}
+[papers/2020_counting_W.pdf Does Ambient Sound Help? - Audiovisual Crowd Counting] \n
+[https://github.com/qingzwang/AudioVisualCrowdCounting Code], [https://zenodo.org/record/3828468 Dataset], [https://www.youtube.com/watch?v=bk8fm7t7RJU Video] \n
+*Di Hu*\*, Lichao Mou\*, Qingzhong Wang\*, Junyu Gao, Yuansheng Hua, Dejing Dou, Xiaoxiang Zhu\n
+CVPR Sight and Sound Workshop 2020
+~~~
+
+~~~
+{}{img_left}{ims/CCOL_W.jpeg}{alt text}{150px}{80px}{}
+[papers/2020_CCOL_W.pdf Co-Learn Sounding Object Visual Grounding and Visually Indicated Sound Separation in A Cycle] \n
+[https://www.youtube.com/watch?v=z4vvwbHG6pY Video] \n
+Yapeng Tian\*, *Di Hu*\*, Chenliang Xu\n
+CVPR Sight and Sound Workshop 2020
+~~~
+
+~~~
+{}{img_left}{ims/MSSL_W.jpeg}{alt text}{150px}{80px}{}
+[papers/2020_MSSL_W.pdf A Two-Stage Framework for Multiple Sound-Source Localization] \n
+[https://github.com/shvdiwnkozbw/Multi-Source-Sound-Localization Code], [https://www.youtube.com/watch?v=153xEWWjt-w Video] \n
+Rui Qian, *Di Hu*, Heinrich Dinkel, Mengyue Wu, Ning Xu, Weiyao Lin\n
+CVPR Sight and Sound Workshop 2020
+~~~
+
