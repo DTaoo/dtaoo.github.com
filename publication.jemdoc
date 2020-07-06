@@ -21,6 +21,14 @@ ECCV 2020
 ~~~
 
 ~~~
+{}{img_left}{ims/voice.JPG}{alt text}{150px}{80px}{}
+[papers/2019_voice.pdf Listen to the Image] \n
+[papers/2019_voice_SM.pdf Supplemental Material], [https://github.com/DTaoo/Congenitally-Blind-Model Code], [https://redwang.github.io/CVPR19/ Project page]\n
+*Di Hu*, Dong Wang, Xuelong Li, Feiping Nie, Qi Wang\n
+CVPR 2019
+~~~
+
+~~~
 {}{img_left}{ims/DMC.JPG}{alt text}{150px}{80px}{}
 [papers/2019_DMC.pdf Deep Multimodal Clustering for Unsupervised Audiovisual Learning] \n
 [papers/2019_DMC_SM.pdf Supplemental Material], [demo/DMC_demo.mp4 Demo], [https://github.com/DTaoo/DMC Code] \n
