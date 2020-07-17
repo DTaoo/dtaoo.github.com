@@ -6,7 +6,7 @@
 
 ~~~
 {}{img_left}{ims/AVSC.jpeg}{alt text}{150px}{80px}{}
-[https://arxiv.org/pdf/2005.08449.pdf Cross-Task Transfer for Multimodal Aerial Scene Recognition] \n
+[https://arxiv.org/pdf/2005.08449.pdf Cross-Task Transfer for Geotagged Audiovisual Aerial Scene Recognition] \n
 [https://github.com/DTaoo/Multimodal-Aerial-Scene-Recognition Code], [https://zenodo.org/record/3828124 Dataset] \n
 *Di Hu*, Xuhong Li, Lichao Mou, Pu Jin, Dong Chen, Liping Jing, Xiaoxiang Zhu, Dejing Dou\n
 ECCV 2020
@@ -14,7 +14,7 @@ ECCV 2020
 
 ~~~
 {}{img_left}{ims/MSSL_W.jpeg}{alt text}{150px}{80px}{}
-[https://eccv2020.eu/accepted-papers/ Learning to Visually Localize Multiple Sound Sources via A Two-stage Manner] \n
+[https://arxiv.org/abs/2007.06355 Multiple Sound Sources Localization from Coarse to Fine] \n
 [https://github.com/shvdiwnkozbw/Multi-Source-Sound-Localization Code]\n
 Rui Qian, *Di Hu*, Heinrich Dinkel, Mengyue Wu, Ning Xu, Weiyao Lin\n
 ECCV 2020
