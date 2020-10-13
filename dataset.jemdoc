@@ -11,7 +11,7 @@ We build category-balanced multi-source videos by artificially synthesizing solo
 == AuDio Visual Aerial sceNe reCognition datasEt (ADVANCE)
 ~~~
 {}{img_left}{ims/ADVANCE.jpeg}{alt text}{}{125px}{}
-AuDio Visual Aerial sceNe reCognition datasEt (AVCANCE) consists of 5,075 geotagged aerial imagesound pairs involving 13 scene classes. 
+AuDio Visual Aerial sceNe reCognition datasEt (ADVANCE) consists of 5,075 geotagged aerial imagesound pairs involving 13 scene classes. 
 The audio data are collected from [https://freesound.org/browse/geotags/ Freesound], where we remove the audio recordings that are shorter than 2 seconds, and extend those that are between 2 and 10 seconds to longer than 10 seconds by replicating the audio content. From the location information, we can download the updated aerial images from [https://earthengine.google.com/ Google Earth]. Finally, the paired data are labeled according to the annotations from [https://www.openstreetmap.org/ OpenStreetMap], also using the attached geographic coordinates from the audio recording. Note that, this dataset covers a large variety of scenes from across the world. For more details about this dataset, please refer to [https://arxiv.org/pdf/2005.08449.pdf our paper]. [https://zenodo.org/record/3828124 Download this dataset here]
 ~~~
 
