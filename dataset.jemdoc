@@ -1,11 +1,12 @@
 # jemdoc: menu{MENU}{software.html}
 = Dataset
 
-== Shuttersong Dataset
+== MUSIC-Synthetic dataset
 ~~~
-{}{img_left}{ims/shuttersong.jpeg}{alt text}{}{100px}{}
-Shuttersong Dataset contains amounts of pairwise images and songs (lyrics) collected from the Shuttersong application. [www.shuttersong.com Shuttersong] is a social sharing software, just like Instagram2. However, the shared content contains not only an image, but also a corresponding song clip selected by users, which is for strengthening the expression purpose. A relevant mood can also be appended by users. We collect almost the entire updated data from Shuttersong, which consists of 36,646 pairs of images and song clips. Some optional mood and favorite count information are also included. For more details about this dataset, please refer to [papers/2017_image2song.pdf our paper]. [https://drive.google.com/open?id=0B2N8XiDRrEgISXFJSXBEMWpUMDA Download this dataset here]
+{}{img_left}{ims/nips2020_syn.png}{alt text}{}{125px}{}
+We build category-balanced multi-source videos by artificially synthesizing solo videos from the [https://github.com/roudimit/MUSIC_dataset MUSIC dataset] to facilitate the learning and evaluation of multiple-soundings-sources localization in the cocktail-party scenario. Concretely, we first randomly choose four 1-second solo audiovisual pairs of different categories, then mix random two of the four audio clips with jittering as the multi-source audio waveform, and concatenate four frames of these clips as the multi-source video frame. That is, in the synthesized audiovisual pairs, there are two instruments making sound while the other two are silent. Therefore, this synthesized dataset is quite proper for the evaluation of discriminatively sounding object localization and we also find it generalizes well in the real-world scenarios. For more details about this dataset, please refer to our paper. [https://zenodo.org/record/4079386\#.X4PFodozbb2 Download this dataset here]
 ~~~
+
 
 == AuDio Visual Aerial sceNe reCognition datasEt (ADVANCE)
 ~~~
@@ -19,6 +20,12 @@ The audio data are collected from [https://freesound.org/browse/geotags/ Freesou
 ~~~
 {}{img_left}{ims/DISCO.jpeg}{alt text}{}{105px}{}
 AuDIoviSual Crowd cOunting dataset (DISCO) consists of 1,935 images and audios from various typical scenes, a total of 170, 270 instances annotated with the head locations. The average, minimum and maximum number of people for each image are 87.99, 1 and 709, respectively. The motivation of building this dataset is that * the louder we perceive the ambient sound to be, the more people there are*. In a summary, DISCO dataset has three advantages comparing with others: 1) both audio and visual signals are provided; 2) cover different illuminations; and 3) a large variety of scenes are considered. For more details about this dataset, please refer to [https://arxiv.org/abs/2005.07097 our paper]. [https://zenodo.org/record/3828468 Download this dataset here]
+~~~
+
+== Shuttersong Dataset
+~~~
+{}{img_left}{ims/shuttersong.jpeg}{alt text}{}{100px}{}
+Shuttersong Dataset contains amounts of pairwise images and songs (lyrics) collected from the Shuttersong application. [www.shuttersong.com Shuttersong] is a social sharing software, just like Instagram2. However, the shared content contains not only an image, but also a corresponding song clip selected by users, which is for strengthening the expression purpose. A relevant mood can also be appended by users. We collect almost the entire updated data from Shuttersong, which consists of 36,646 pairs of images and song clips. Some optional mood and favorite count information are also included. For more details about this dataset, please refer to [papers/2017_image2song.pdf our paper]. [https://drive.google.com/open?id=0B2N8XiDRrEgISXFJSXBEMWpUMDA Download this dataset here]
 ~~~
 
 

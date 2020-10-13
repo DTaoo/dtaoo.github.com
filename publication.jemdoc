@@ -3,6 +3,13 @@
 
 
 == Conference Papers
+~~~
+{}{img_left}{ims/nips2020.jpg}{alt text}{150px}{80px}{}
+[https://arxiv.org/pdf/2010.05466.pdf Discriminative Sounding Objects Localization via Self-supervised Audiovisual Matching] \n
+[https://github.com/DTaoo/Discriminative-Sounding-Objects-Localization Code], [https://zenodo.org/record/4079386\#.X4PFodozbb2 Dataset] \n
+*Di Hu*, Rui Qian, Minyue Jiang, Xiao Tan, Shilei Wen, Errui Ding, Weiyao Lin, Dejing Dou\n
+NeurIPS 2020
+~~~
 
 ~~~
 {}{img_left}{ims/AVSC.jpeg}{alt text}{150px}{80px}{}
