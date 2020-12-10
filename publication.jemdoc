@@ -3,6 +3,14 @@
 
 == Conference Papers
 ~~~
+{}{img_left}{ims/DTGRM.png}{alt text}{150px}{80px}{}
+Temporal Relational Modeling with Self-Supervision for Action Segmentation \n
+Code is coming soon\n
+Dong Wang, *Di Hu**, Xingjian Li, Dejing Dou\n
+AAAI 2021
+~~~
+
+~~~
 {}{img_left}{ims/nips2020.jpg}{alt text}{150px}{80px}{}
 [https://arxiv.org/pdf/2010.05466.pdf Discriminative Sounding Objects Localization via Self-supervised Audiovisual Matching] \n
 [https://github.com/DTaoo/Discriminative-Sounding-Objects-Localization Code], [https://zenodo.org/record/4079386\#.X4PFodozbb2 Dataset], [https://youtu.be/XRU-R32t6rU Demo]\n
