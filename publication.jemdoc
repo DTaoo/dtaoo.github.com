@@ -4,8 +4,8 @@
 == Conference Papers
 ~~~
 {}{img_left}{ims/DTGRM.png}{alt text}{150px}{80px}{}
-Temporal Relational Modeling with Self-Supervision for Action Segmentation \n
-Code is coming soon\n
+[https://arxiv.org/abs/2012.07508 Temporal Relational Modeling with Self-Supervision for Action Segmentation] \n
+[https://github.com/redwang/DTGRM Code]\n
 Dong Wang, *Di Hu**, Xingjian Li, Dejing Dou\n
 AAAI 2021
 ~~~
