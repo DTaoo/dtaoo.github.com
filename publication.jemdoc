@@ -1,6 +1,20 @@
 # jemdoc: menu{MENU}{publication.html}
 = Publications
 
+== Preprint 
+~~~
+{}{img_left}{ims/audioCounting.png}{alt text}{150px}{80px}{}
+[https://arxiv.org/abs/2005.07097 Ambient Sound Helps: Audiovisual Crowd Counting in Extreme Conditions] \n
+[https://github.com/qingzwang/AudioVisualCrowdCounting Code], [https://zenodo.org/record/3828468 Dataset]\n
+*Di Hu*\*, Lichao Mou\*, Qingzhong Wang\*, Junyu Gao, Yuansheng Hua, Dejing Dou, Xiao Xiang Zhu\n
+~~~
+
+~~~
+{}{img_left}{ims/tred.png}{alt text}{150px}{80px}{}
+[Towards Accurate Knowledge Transfer via Target-awareness Representation Disentanglement] \n
+Xingjian Li, *Di Hu*, Xuhong Li, Haoyi Xiong, Zhi Ye, Zhipeng Wang, Chengzhong Xu, Dejing Dou\n
+~~~
+
 == Conference Papers
 ~~~
 {}{img_left}{ims/DTGRM.png}{alt text}{150px}{80px}{}
