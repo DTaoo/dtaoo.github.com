@@ -18,8 +18,8 @@ Xingjian Li, *Di Hu*, Xuhong Li, Haoyi Xiong, Zhi Ye, Zhipeng Wang, Chengzhong X
 == Conference Papers
 ~~~
 {}{img_left}{ims/cvpr2021_ccol.png}{alt text}{150px}{80px}{}
-Cyclic Co-Learning of Sounding Object Visual Grounding and Sound Separation \n
-Code is coming soon\n
+[https://arxiv.org/pdf/2104.02026.pdf Cyclic Co-Learning of Sounding Object Visual Grounding and Sound Separation] \n
+[https://github.com/YapengTian/CCOL-CVPR21 Code] \n
 Yapeng Tian, *Di Hu\**, Chenliang Xu (\*Corresponding Author)\n 
 CVPR 2021
 ~~~
