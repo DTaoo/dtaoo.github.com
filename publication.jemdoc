@@ -2,6 +2,13 @@
 = Publications
 
 == Preprint 
+
+~~~
+{}{img_left}{ims/infoTool.png}{alt text}{150px}{80px}{}
+[https://openreview.net/pdf?id=DQpwoZgqyZ Model Information as An Analysis Tool in Deep Learning] \n
+Xiao Zhang, *Di Hu*, Xingjian Li, Dejing Dou, Ji Wu\n
+~~~
+
 ~~~
 {}{img_left}{ims/ssl-rs.png}{alt text}{150px}{80px}{}
 [https://arxiv.org/abs/2108.00688 Self-supervised Audiovisual Representation Learning for Remote Sensing Data] \n
@@ -9,6 +16,17 @@
 Konrad Heidler, Lichao Mou, *Di Hu\**, Pu Jin, Guangyao Li, Chuang Gan, Ji-Rong Wen, Xiao Xiang Zhu\n
 ~~~
 
+~~~
+{}{img_left}{ims/cmd.png}{alt text}{150px}{80px}{}
+[https://arxiv.org/abs/2106.01489 Not All Knowledge Is Created Equal] \n
+Ziyun Li, Xinshao Wang, Haojin Yang, *Di Hu*, Neil M Robertson, David A Clifton, Christoph Meinel\n
+~~~
+
+~~~
+{}{img_left}{ims/tred.png}{alt text}{150px}{80px}{}
+[https://arxiv.org/abs/2010.08532 Towards Accurate Knowledge Transfer via Target-awareness Representation Disentanglement] \n
+Xingjian Li, *Di Hu*, Xuhong Li, Haoyi Xiong, Zhi Ye, Zhipeng Wang, Chengzhong Xu, Dejing Dou\n
+~~~
 
 ~~~
 {}{img_left}{ims/audioCounting.png}{alt text}{150px}{80px}{}
@@ -18,10 +36,11 @@ Konrad Heidler, Lichao Mou, *Di Hu\**, Pu Jin, Guangyao Li, Chuang Gan, Ji-Rong 
 ~~~
 
 ~~~
-{}{img_left}{ims/tred.png}{alt text}{150px}{80px}{}
-[https://arxiv.org/abs/2010.08532 Towards Accurate Knowledge Transfer via Target-awareness Representation Disentanglement] \n
-Xingjian Li, *Di Hu*, Xuhong Li, Haoyi Xiong, Zhi Ye, Zhipeng Wang, Chengzhong Xu, Dejing Dou\n
+{}{img_left}{ims/curriculum.png}{alt text}{150px}{80px}{}
+[https://arxiv.org/abs/2001.09414 Curriculum Audiovisual Learning] \n
+*Di Hu*, Zheng Wang, Haoyi Xiong, Dong Wang, Feiping Nie, Dejing Dou\n
 ~~~
+
 
 == Conference Papers
 ~~~
