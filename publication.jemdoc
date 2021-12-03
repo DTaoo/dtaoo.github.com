@@ -25,6 +25,20 @@ Xingjian Li, *Di Hu*, Xuhong Li, Haoyi Xiong, Zhi Ye, Zhipeng Wang, Chengzhong X
 
 == Conference Papers
 ~~~
+{}{img_left}{ims/aaai2022-erasing.png}{alt text}{150px}{80px}{}
+Visual Sound Localization in-the-Wild by Cross-Modal Interference Erasing \n
+Xian Liu, Rui Qian, Hang Zhou, *Di Hu*, Weiyao Lin, Ziwei Liu, Bolei Zhou, Xiaowei Zhou\n
+AAAI 2022
+~~~
+
+~~~
+{}{img_left}{ims/aaai2022-struc.png}{alt text}{150px}{80px}{}
+SepFusion: Finding Optimal Fusion Structures for Visual Sound Separation \n
+Dongzhan Zhou, Xinchi Zhou, *Di Hu*, Hang Zhou, Lei Bai, Ziwei Liu, Wanli Ouyang\n
+AAAI 2022
+~~~
+
+~~~
 {}{img_left}{ims/cvpr2021_ccol.png}{alt text}{150px}{80px}{}
 [https://arxiv.org/pdf/2104.02026.pdf Cyclic Co-Learning of Sounding Object Visual Grounding and Sound Separation] \n
 [https://github.com/YapengTian/CCOL-CVPR21 Code] \n
