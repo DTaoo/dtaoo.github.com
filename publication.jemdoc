@@ -162,10 +162,17 @@ CVPR 2016
 
 == Journal Papers
 ~~~
+{}{img_left}{ims/localize-pami.png}{alt text}{150px}{80px}{}
+Class-aware Sounding Objects Localization via Audiovisual Correspondence \n
+*Di Hu*, Yake Wei, Rui Qian, Weiyao Lin, Ruihua Song, Ji-Rong Wen \n
+Transactions on Pattern Analysis and Machine Intelligence (TPAMI) 2021
+~~~
+
+~~~
 {}{img_left}{ims/DeepLDAHashing.JPG}{alt text}{150px}{80px}{}
 Generalising Combinatorial Discriminant Analysis through Conditioning Truncated Rayleigh Flow \n
 Sijia Yang, Haoyi Xiong, *Di Hu*, Kaibo Xu, Licheng Wang, Peizhen Zhu, Zeyi Sun.\n
-Knowledge and Information Systems (KAIS), 2021
+Knowledge and Information Systems (KAIS) 2021
 ~~~
 
 ~~~
@@ -180,14 +187,14 @@ SCIENTIA SINICA Informationis 2019
 {}{img_left}{ims/lghsr.JPG}{alt text}{150px}{80px}{}
 [papers/2019_DSH.pdf Discrete Spectral Hashing for Efficient Similarity Retrieval] \n
 *Di Hu*, Feiping Nie, Xuelong Li\n
-IEEE TRANSACTIONS ON IMAGE PROCESSING 2019
+IEEE TRANSACTIONS ON IMAGE PROCESSING (TIP) 2019
 ~~~
 
 ~~~
 {}{img_left}{ims/DBRC.JPG}{alt text}{150px}{80px}{}
 [papers/2019_DBRC.pdf Deep Binary Reconstruction for Cross-modal Hashing] \n
 *Di Hu*, Feiping Nie, Xuelong Li\n
-IEEE TRANSACTIONS ON MULTIMEDIA 2019
+IEEE TRANSACTIONS ON MULTIMEDIA (TMM) 2019
 ~~~
 
 == Workshop Papers
