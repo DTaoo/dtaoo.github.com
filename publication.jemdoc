@@ -39,7 +39,7 @@ Xingjian Li, *Di Hu*, Xuhong Li, Haoyi Xiong, Zhi Ye, Zhipeng Wang, Chengzhong X
 == Conference Papers
 ~~~
 {}{img_left}{ims/aaai2022-erasing.png}{alt text}{150px}{80px}{}
-Visual Sound Localization in-the-Wild by Cross-Modal Interference Erasing \n
+[https://arxiv.org/abs/2202.06406 Visual Sound Localization in-the-Wild by Cross-Modal Interference Erasing] \n
 Xian Liu, Rui Qian, Hang Zhou, *Di Hu*, Weiyao Lin, Ziwei Liu, Bolei Zhou, Xiaowei Zhou\n
 AAAI 2022
 ~~~
@@ -164,9 +164,9 @@ CVPR 2016
 ~~~
 {}{img_left}{ims/localize-pami.png}{alt text}{150px}{80px}{}
 [https://arxiv.org/abs/2112.11749 Class-aware Sounding Objects Localization via Audiovisual Correspondence] \n
-[https://github.com/GeWu-Lab/CSOL_TPAMI2021 Code] \n
+[https://gewu-lab.github.io/CSOL_TPAMI2021/ Project Page], [https://github.com/GeWu-Lab/CSOL_TPAMI2021 Code] \n
 *Di Hu*, Yake Wei, Rui Qian, Weiyao Lin, Ruihua Song, Ji-Rong Wen \n
-Transactions on Pattern Analysis and Machine Intelligence (TPAMI) 2021
+Transactions on Pattern Analysis and Machine Intelligence (TPAMI) 2021 \n
 ~~~
 
 ~~~
