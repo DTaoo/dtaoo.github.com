@@ -39,7 +39,7 @@ Xingjian Li, *Di Hu*, Xuhong Li, Haoyi Xiong, Zhi Ye, Zhipeng Wang, Chengzhong X
 == Conference Papers
 ~~~
 {}{img_left}{ims/cvpr2022-balance.png}{alt text}{150px}{80px}{}
-Balanced Multimodal Learning via On-the-fly Gradient Modulation \n
+[https://arxiv.org/abs/2203.15332 Balanced Multimodal Learning via On-the-fly Gradient Modulation] \n
 [https://github.com/GeWu-Lab/OGM-GE_CVPR2022 Code] \n
 Xiaokang Peng\*, Yake Wei\*, Andong Deng, Dong Wang, *Di Hu*\n
 CVPR 2022. *Oral Presentation*
@@ -47,7 +47,7 @@ CVPR 2022. *Oral Presentation*
 
 ~~~
 {}{img_left}{ims/cvpr2022-avqa.png}{alt text}{150px}{80px}{}
-[https://gewu-lab.github.io/MUSIC-AVQA/static/files/st-avqa.pdf Learning to Answer Questions in Dynamic Audio-Visual Scenarios] \n
+[https://arxiv.org/abs/2203.14072 Learning to Answer Questions in Dynamic Audio-Visual Scenarios] \n
 [https://gewu-lab.github.io/MUSIC-AVQA/ Project Page], [https://github.com/GeWu-Lab/MUSIC-AVQA Code] \n
 Guangyao Li\*, Yake Wei\*, Yapeng Tian\*, Chenliang Xu, Ji-Rong Wen, *Di Hu*\n
 CVPR 2022. *Oral Presentation*
