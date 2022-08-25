@@ -6,7 +6,7 @@
 {}{img_left}{ims/AV_survey.png}{alt text}{150px}{80px}{}
 [https://arxiv.org/abs/2208.09579 Learning in Audio-visual Context: A Review, Analysis, and New Perspective] \n
 [https://gewu-lab.github.io/audio-visual-learning/ Project Page], [https://gewu-lab.github.io/awesome-audiovisual-learning/ Awesome List], [https://github.com/GeWu-Lab/awesome-audiovisual-learning GitHub] \n
-Yake Wei, Di Hu, Yapeng Tian, Xuelong Li\n
+Yake Wei, *Di Hu\^*, Yapeng Tian, Xuelong Li (\^Corresponding Author) \n
 ~~~
 
 
@@ -14,7 +14,7 @@ Yake Wei, Di Hu, Yapeng Tian, Xuelong Li\n
 {}{img_left}{ims/ssl-rs.png}{alt text}{150px}{80px}{}
 [https://arxiv.org/abs/2108.00688 Self-supervised Audiovisual Representation Learning for Remote Sensing Data] \n
 [https://www.youtube.com/watch?v=gD_fNJPBWhs Demo (Look to Hear Our Planet)] \n
-Konrad Heidler, Lichao Mou, *Di Hu\**, Pu Jin, Guangyao Li, Chuang Gan, Ji-Rong Wen, Xiao Xiang Zhu\n
+Konrad Heidler, Lichao Mou, *Di Hu\^*, Pu Jin, Guangyao Li, Chuang Gan, Ji-Rong Wen, Xiao Xiang Zhu\n
 ~~~
 
 ~~~
@@ -33,7 +33,7 @@ Xingjian Li, *Di Hu*, Xuhong Li, Haoyi Xiong, Zhi Ye, Zhipeng Wang, Chengzhong X
 {}{img_left}{ims/audioCounting.png}{alt text}{150px}{80px}{}
 [https://arxiv.org/abs/2005.07097 Ambient Sound Helps: Audiovisual Crowd Counting in Extreme Conditions] \n
 [https://github.com/qingzwang/AudioVisualCrowdCounting Code], [https://zenodo.org/record/3828468 Dataset]\n
-*Di Hu*\*, Lichao Mou\*, Qingzhong Wang\*, Junyu Gao, Yuansheng Hua, Dejing Dou, Xiao Xiang Zhu\n
+*Di Hu\^*, Lichao Mou\*, Qingzhong Wang\*, Junyu Gao, Yuansheng Hua, Dejing Dou, Xiao Xiang Zhu\n
 ~~~
 
 ~~~
@@ -48,7 +48,7 @@ Xingjian Li, *Di Hu*, Xuhong Li, Haoyi Xiong, Zhi Ye, Zhipeng Wang, Chengzhong X
 {}{img_left}{ims/cvpr2022-balance.png}{alt text}{150px}{80px}{}
 [https://arxiv.org/abs/2203.15332 Balanced Multimodal Learning via On-the-fly Gradient Modulation] \n
 [https://github.com/GeWu-Lab/OGM-GE_CVPR2022 Code] \n
-Xiaokang Peng\*, Yake Wei\*, Andong Deng, Dong Wang, *Di Hu*\n
+Xiaokang Peng\*, Yake Wei\*, Andong Deng, Dong Wang, *Di Hu\^*\n
 CVPR 2022. *Oral Presentation*
 ~~~
 
@@ -56,7 +56,7 @@ CVPR 2022. *Oral Presentation*
 {}{img_left}{ims/cvpr2022-avqa.png}{alt text}{150px}{80px}{}
 [https://arxiv.org/abs/2203.14072 Learning to Answer Questions in Dynamic Audio-Visual Scenarios] \n
 [https://gewu-lab.github.io/MUSIC-AVQA/ Project Page], [https://github.com/GeWu-Lab/MUSIC-AVQA Code] \n
-Guangyao Li\*, Yake Wei\*, Yapeng Tian\*, Chenliang Xu, Ji-Rong Wen, *Di Hu*\n
+Guangyao Li\*, Yake Wei\*, Yapeng Tian\*, Chenliang Xu, Ji-Rong Wen, *Di Hu\^*\n
 CVPR 2022. *Oral Presentation*
 ~~~
 
@@ -71,7 +71,7 @@ AAAI 2022
 ~~~
 {}{img_left}{ims/aaai2022-struc.png}{alt text}{150px}{80px}{}
 [https://www.aaai.org/AAAI22Papers/AAAI-11517.ZhouD.pdf SepFusion: Finding Optimal Fusion Structures for Visual Sound Separation] \n
-Dongzhan Zhou, Xinchi Zhou, *Di Hu\^*, Hang Zhou, Lei Bai, Ziwei Liu, Wanli Ouyang (\^Corresponding Author) \n
+Dongzhan Zhou, Xinchi Zhou, *Di Hu\^*, Hang Zhou, Lei Bai, Ziwei Liu, Wanli Ouyang \n
 AAAI 2022
 ~~~
 
@@ -79,7 +79,7 @@ AAAI 2022
 {}{img_left}{ims/cvpr2021_ccol.png}{alt text}{150px}{80px}{}
 [https://arxiv.org/pdf/2104.02026.pdf Cyclic Co-Learning of Sounding Object Visual Grounding and Sound Separation] \n
 [https://github.com/YapengTian/CCOL-CVPR21 Code] \n
-Yapeng Tian, *Di Hu\^*, Chenliang Xu (\^Corresponding Author)\n 
+Yapeng Tian, *Di Hu\^*, Chenliang Xu\n 
 CVPR 2021
 ~~~
 
@@ -87,7 +87,7 @@ CVPR 2021
 {}{img_left}{ims/cvpr2021_uda.png}{alt text}{150px}{80px}{}
 [https://arxiv.org/abs/2104.12961 Unsupervised Multi-Source Domain Adaptation for Person Re-Identification] \n
 [https://github.com/Neverland610/MSUDA_REID Code]\n
-Zechen Bai, Zhigang Wang, Jian Wang, *Di Hu\^*, Errui Ding\^ (\^Corresponding Author) \n
+Zechen Bai, Zhigang Wang, Jian Wang, *Di Hu\^*, Errui Ding\^ \n
 CVPR 2021. *Oral Presentation*
 ~~~
 
@@ -95,7 +95,7 @@ CVPR 2021. *Oral Presentation*
 {}{img_left}{ims/DTGRM.png}{alt text}{150px}{80px}{}
 [https://arxiv.org/abs/2012.07508 Temporal Relational Modeling with Self-Supervision for Action Segmentation] \n
 [https://github.com/redwang/DTGRM Code]\n
-Dong Wang, *Di Hu\^*, Xingjian Li, Dejing Dou (\^Corresponding Author) \n
+Dong Wang, *Di Hu\^*, Xingjian Li, Dejing Dou\n
 AAAI 2021
 ~~~
 
