@@ -45,6 +45,20 @@ Xingjian Li, *Di Hu*, Xuhong Li, Haoyi Xiong, Zhi Ye, Zhipeng Wang, Chengzhong X
 
 == Conference Papers
 ~~~
+{}{img_left}{ims/wacv2022-avloc.png}{alt text}{150px}{80px}{}
+Exploiting Visual Context Semantics for Sound Source Localization \n
+Xinchi Zhou, Dongzhan Zhou, *Di Hu*, Hang Zhou, Wanli Ouyang\n
+WACV 2022.
+~~~
+
+~~~
+{}{img_left}{ims/wacv2022-seco.png}{alt text}{150px}{80px}{}
+SeCo: Separating Unknown Musical Visual Sounds with Consistency Guidance \n
+Xinchi Zhou, Dongzhan Zhou, Wanli Ouyang, Hang Zhou, *Di Hu*\n
+WACV 2022.
+~~~
+
+~~~
 {}{img_left}{ims/cvpr2022-balance.png}{alt text}{150px}{80px}{}
 [https://arxiv.org/abs/2203.15332 Balanced Multimodal Learning via On-the-fly Gradient Modulation] \n
 [https://github.com/GeWu-Lab/OGM-GE_CVPR2022 Code] \n
