@@ -11,13 +11,6 @@ Yake Wei, *Di Hu\^*, Yapeng Tian, Xuelong Li (\^Corresponding Author) \n
 
 
 ~~~
-{}{img_left}{ims/ssl-rs.png}{alt text}{150px}{80px}{}
-[https://arxiv.org/abs/2108.00688 Self-supervised Audiovisual Representation Learning for Remote Sensing Data] \n
-[https://www.youtube.com/watch?v=gD_fNJPBWhs Demo (Look to Hear Our Planet)] \n
-Konrad Heidler, Lichao Mou, *Di Hu\^*, Pu Jin, Guangyao Li, Chuang Gan, Ji-Rong Wen, Xiao Xiang Zhu\n
-~~~
-
-~~~
 {}{img_left}{ims/cmd.png}{alt text}{150px}{80px}{}
 [https://arxiv.org/abs/2106.01489 Not All Knowledge Is Created Equal] \n
 Ziyun Li, Xinshao Wang, Haojin Yang, *Di Hu*, Neil M Robertson, David A Clifton, Christoph Meinel\n
@@ -199,6 +192,14 @@ CVPR 2016
 ~~~
 
 == Journal Papers
+~~~
+{}{img_left}{ims/ssl-rs.png}{alt text}{150px}{80px}{}
+[https://arxiv.org/abs/2108.00688 Self-supervised Audiovisual Representation Learning for Remote Sensing Data] \n
+[https://www.youtube.com/watch?v=gD_fNJPBWhs Demo (Look to Hear Our Planet)] \n
+Konrad Heidler, Lichao Mou, *Di Hu\^*, Pu Jin, Guangyao Li, Chuang Gan, Ji-Rong Wen, Xiao Xiang Zhu\n
+International Journal of Applied Earth Observation and Geoinformation 2022 \n
+~~~
+
 ~~~
 {}{img_left}{ims/tmm-avcurri.png}{alt text}{150px}{80px}{}
 Self-supervised Learning for Heterogeneous Audiovisual Scene Analysis \n
