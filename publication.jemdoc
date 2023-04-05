@@ -38,6 +38,20 @@ Xingjian Li, *Di Hu*, Xuhong Li, Haoyi Xiong, Zhi Ye, Zhipeng Wang, Chengzhong X
 
 == Conference Papers
 ~~~
+{}{img_left}{ims/icme2023-distill.png}{alt text}{150px}{80px}{}
+Robust Cross-Modal Knowledge Distillation for Unconstrained Videos \n
+Wenke Xia, Xingjian Li, Andong Deng, Haoyi Xiong, Dejing Dou, and *Di Hu\^*\n
+ICME 2023
+~~~
+
+~~~
+{}{img_left}{ims/icassp2023-mmcosine.png}{alt text}{150px}{80px}{}
+MMCosine: Multi-Modal Cosine Loss Towards Balanced Audio-Visual Fine-Grained Learning\n
+Ruize Xu, Ruoxuan Feng, Shi-xiong Zhang, and *Di Hu\^*\n
+ICASSP 2023
+~~~
+
+~~~
 {}{img_left}{ims/wacv2022-avloc.png}{alt text}{150px}{80px}{}
 Exploiting Visual Context Semantics for Sound Source Localization \n
 Xinchi Zhou, Dongzhan Zhou, *Di Hu*, Hang Zhou, Wanli Ouyang\n
