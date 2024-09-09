@@ -1,5 +1,5 @@
-# jemdoc: menu{MENU}{publication.html}
-= Publications
+# jemdoc: menu{MENU}{publication.html }
+= Publications ([https://gewu-lab.github.io/publication/ Full List])
 
 == Preprint 
 ~~~
@@ -42,7 +42,7 @@ Xingjian Li, *Di Hu*, Xuhong Li, Haoyi Xiong, Zhi Ye, Zhipeng Wang, Chengzhong X
 ~~~
 
 
-== Conference Papers
+== Conference Papers ([https://gewu-lab.github.io/publication/\#1 Full List])
 ~~~
 {}{img_left}{ims/acmmm_psavqa.png}{alt text}{150px}{80px}{}
 [https://arxiv.org/abs/2308.05421 Progressive Spatio-temporal Perception for Audio-Visual Question Answering] \n
